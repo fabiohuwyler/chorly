@@ -57,6 +57,6 @@ We welcome contributions to Chorly! Please fork the repository and submit a pull
 
 ## Contact
 
-For support or inquiries, reach out to **[Your Name/Team Name]** at **[Your Email Address]**.
+For support or inquiries, reach out to **Fabio Huwyler** at **hey@huwy.dev**.
 
 Enjoy using Chorly to keep your chores organized!
